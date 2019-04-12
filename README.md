@@ -1,2 +1,2 @@
-# Unsplash-Scraper
-Scraping the Unsplash website for images
+# AtlasObscura-food-Scraper
+Scraping the Atlas Obscura website for the oddest foods
