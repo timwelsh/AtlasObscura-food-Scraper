@@ -1,5 +1,5 @@
 {
-  "name": "Unsplash-Scraper",
+  "name": "AtlasObscura-food-Scraper",
   "version": "1.0.0",
   "description": "Scraping the Unsplash website for images",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
+    "mongojs": "^2.6.0",
     "mongoose": "^5.5.1"
   }
 }
