@@ -23,6 +23,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "mongojs": "^2.6.0",
-    "mongoose": "^5.5.1"
+    "mongoose": "^5.5.1",
+    "morgan": "^1.9.1"
   }
 }
